@@ -1,0 +1,46 @@
+{
+  "name": " Earth Dolphin #500",
+  "symbol": "MDM",
+  "description": "The second generation of Malibu Dolphins with elemental abilities.",
+  "seller_fee_basis_points": 500,
+  "image": "500.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sand"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Uniform"
+    }
+  ],
+  "properties": {
+    "edition": 500,
+    "files": [
+      {
+        "uri": "500.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5RThBxbtGWDMMjY7kqDapKW1Wxg1qy71btwN8srdSTn1",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork | qualifieddevs.io"
+  }
+}

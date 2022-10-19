@@ -1,0 +1,46 @@
+{
+  "name": " Air Dolphin #129",
+  "symbol": "MDM",
+  "description": "The second generation of Malibu Dolphins with elemental abilities.",
+  "seller_fee_basis_points": 500,
+  "image": "129.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sand"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Air"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pout"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Cap"
+    }
+  ],
+  "properties": {
+    "edition": 129,
+    "files": [
+      {
+        "uri": "129.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5RThBxbtGWDMMjY7kqDapKW1Wxg1qy71btwN8srdSTn1",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork | qualifieddevs.io"
+  }
+}

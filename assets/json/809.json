@@ -1,0 +1,50 @@
+{
+  "name": " Fire Dolphin #809",
+  "symbol": "MDM",
+  "description": "The second generation of Malibu Dolphins with elemental abilities.",
+  "seller_fee_basis_points": 500,
+  "image": "809.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gasp"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor Uniform"
+    }
+  ],
+  "properties": {
+    "edition": 809,
+    "files": [
+      {
+        "uri": "809.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5RThBxbtGWDMMjY7kqDapKW1Wxg1qy71btwN8srdSTn1",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork | qualifieddevs.io"
+  }
+}

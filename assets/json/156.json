@@ -1,0 +1,54 @@
+{
+  "name": " Water Dolphin #156",
+  "symbol": "MDM",
+  "description": "The second generation of Malibu Dolphins with elemental abilities.",
+  "seller_fee_basis_points": 500,
+  "image": "156.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Shades"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Boat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    }
+  ],
+  "properties": {
+    "edition": 156,
+    "files": [
+      {
+        "uri": "156.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5RThBxbtGWDMMjY7kqDapKW1Wxg1qy71btwN8srdSTn1",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork | qualifieddevs.io"
+  }
+}
